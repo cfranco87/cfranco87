@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Carlos Franco</h1>
 <h3 align="center">A passionate frontend developer from Nicaragua</h3>
 
-
+![cartoonme](https://github.com/cfranco87/flutter_quiz/assets/108559276/6086eca1-028c-4790-8013-b415eb640a73)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cfranco87&label=Profile%20views&color=0e75b6&style=flat" alt="cfranco87" /> </p>
 
-- 🔭 I’m currently working on **Food App Development**
+- 🔭 I’m currently working on Food App Development
 
-- 🌱 I’m currently learning **Flutter through Academind by Maximilian Schwarzmüller**
+- 🌱 I’m currently learning Flutter through Academind by Maximilian Schwarzmüller
 
 - 📝 I regularly translate articles on topics of interest [https://medium.com/@happyfolk87](https://medium.com/@happyfolk87)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about Flutter
 
 - 📫 How to reach me **carlosfrancoart@gmail.com**
 
-- ⚡ Fun Fact **For a few years, I was raising over 60 sheep**
+- ⚡ Fun Fact: For a few years, I was raising over 60 sheep
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
